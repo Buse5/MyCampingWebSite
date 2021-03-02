@@ -1,0 +1,14 @@
+C:\Users\BuseYalcin\source\repos\CampingProject\CampService\obj\Debug\netcoreapp3.1\CampService.csprojAssemblyReference.cache
+C:\Users\BuseYalcin\source\repos\CampingProject\CampService\obj\Debug\netcoreapp3.1\CampService.AssemblyInfoInputs.cache
+C:\Users\BuseYalcin\source\repos\CampingProject\CampService\obj\Debug\netcoreapp3.1\CampService.AssemblyInfo.cs
+C:\Users\BuseYalcin\source\repos\CampingProject\CampService\obj\Debug\netcoreapp3.1\CampService.csproj.CoreCompileInputs.cache
+C:\Users\BuseYalcin\source\repos\CampingProject\CampService\bin\Debug\netcoreapp3.1\CampService.deps.json
+C:\Users\BuseYalcin\source\repos\CampingProject\CampService\bin\Debug\netcoreapp3.1\CampService.dll
+C:\Users\BuseYalcin\source\repos\CampingProject\CampService\bin\Debug\netcoreapp3.1\CampService.pdb
+C:\Users\BuseYalcin\source\repos\CampingProject\CampService\bin\Debug\netcoreapp3.1\CampData.dll
+C:\Users\BuseYalcin\source\repos\CampingProject\CampService\bin\Debug\netcoreapp3.1\CampModel.dll
+C:\Users\BuseYalcin\source\repos\CampingProject\CampService\bin\Debug\netcoreapp3.1\CampData.pdb
+C:\Users\BuseYalcin\source\repos\CampingProject\CampService\bin\Debug\netcoreapp3.1\CampModel.pdb
+C:\Users\BuseYalcin\source\repos\CampingProject\CampService\obj\Debug\netcoreapp3.1\CampService.csproj.CopyComplete
+C:\Users\BuseYalcin\source\repos\CampingProject\CampService\obj\Debug\netcoreapp3.1\CampService.dll
+C:\Users\BuseYalcin\source\repos\CampingProject\CampService\obj\Debug\netcoreapp3.1\CampService.pdb

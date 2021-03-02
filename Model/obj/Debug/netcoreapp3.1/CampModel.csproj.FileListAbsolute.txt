@@ -1,0 +1,12 @@
+C:\Users\BuseYalcin\source\repos\CampingProject\Model\bin\Debug\netcoreapp3.1\CampModel.deps.json
+C:\Users\BuseYalcin\source\repos\CampingProject\Model\bin\Debug\netcoreapp3.1\CampModel.dll
+C:\Users\BuseYalcin\source\repos\CampingProject\Model\bin\Debug\netcoreapp3.1\CampModel.pdb
+C:\Users\BuseYalcin\source\repos\CampingProject\Model\obj\Debug\netcoreapp3.1\CampModel.AssemblyInfoInputs.cache
+C:\Users\BuseYalcin\source\repos\CampingProject\Model\obj\Debug\netcoreapp3.1\CampModel.AssemblyInfo.cs
+C:\Users\BuseYalcin\source\repos\CampingProject\Model\obj\Debug\netcoreapp3.1\CampModel.csproj.CoreCompileInputs.cache
+C:\Users\BuseYalcin\source\repos\CampingProject\Model\obj\Debug\netcoreapp3.1\CampModel.dll
+C:\Users\BuseYalcin\source\repos\CampingProject\Model\obj\Debug\netcoreapp3.1\CampModel.pdb
+C:\Users\BuseYalcin\source\repos\CampingProject\Model\bin\Debug\netcoreapp3.1\CampModel.runtimeconfig.json
+C:\Users\BuseYalcin\source\repos\CampingProject\Model\bin\Debug\netcoreapp3.1\CampModel.runtimeconfig.dev.json
+C:\Users\BuseYalcin\source\repos\CampingProject\Model\obj\Debug\netcoreapp3.1\CampModel.genruntimeconfig.cache
+C:\Users\BuseYalcin\source\repos\CampingProject\Model\obj\Debug\netcoreapp3.1\CampModel.csprojAssemblyReference.cache
